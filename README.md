@@ -1,7 +1,7 @@
 # HUANG_Jian_MAFS5210_project3
 
 Here is the MAFS 5210 project 3 code of HUANG Jian.
-Abstract
+## Abstract
 This research proposed a really profitable novel statistical speculation strategy called Differential Trend Motion strategy. 
 This paper investigated this strategy performance of three stock indexes: S&P500, HSI and CSI500. 
 By using the training data to select the optimal strategy and moving average order based on maximum profit, 
