@@ -1,6 +1,8 @@
 # HUANG_Jian_MAFS5210_project3
 
 Here is the MAFS 5210 project 3 code of HUANG Jian.
+It includes the code of three stock indexes: S&P500, HSI, CSI500. 
+The data of S&P500, HSI are put in the csv file, yet the data of CSI500, you should pip install tuahre to download and run in the jupyternotebook. 
 ## Abstract
 This research proposed a really profitable novel statistical speculation strategy called Differential Trend Motion strategy. 
 This paper investigated this strategy performance of three stock indexes: S&P500, HSI and CSI500. 
